@@ -1,9 +1,14 @@
-# Machine-Learning-Specialization-University-of-Washington
-* Learned the practical aspects of ML
-* Built ML algorithms from scratch that are currently being used in industry
-* Implemented these algorithms on popular datasets
-* Specialization consist of following four courses:
-  1. Machine Learning Foundations A Case Study
-  2. Machine Learning-Regression
-  3. Machine Learning-Classification
-  4. Machine Learning-Clustering and Retrieval
+# Machine Learning: Classification
+In this course I learned to: 
+   *  Describe the input and output of a classification model.
+   *  Tackle both binary and multiclass classification problems.
+   *  Implement a logistic regression model for large-scale classification.  
+   *  Create a non-linear model using decision trees.
+   *  Improve the performance of any model using boosting.
+   *  Scale your methods with stochastic gradient ascent.
+   *  Describe the underlying decision boundaries.  
+   *  Build a classification model to predict sentiment in a product review dataset.  
+   *  Analyze financial data to predict loan defaults.
+   *  Use techniques for handling missing data.
+   *  Evaluate your models using precision-recall metrics.
+   *  Implement these techniques in Python.
