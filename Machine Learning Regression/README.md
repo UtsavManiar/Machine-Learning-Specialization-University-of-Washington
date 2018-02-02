@@ -1,5 +1,5 @@
 # Machine Learning: Regression
-In this course I learned:
+In this course I learned to:
    *  Describe the input and output of a regression model.
    *  Compare and contrast bias and variance when modeling data.
    *  Estimate model parameters using optimization algorithms.
