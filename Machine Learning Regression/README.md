@@ -1,9 +1,12 @@
-# Machine-Learning-Specialization-University-of-Washington
-* Learned the practical aspects of ML
-* Built ML algorithms from scratch that are currently being used in industry
-* Implemented these algorithms on popular datasets
-* Specialization consist of following four courses:
-  1. Machine Learning Foundations A Case Study
-  2. Machine Learning-Regression
-  3. Machine Learning-Classification
-  4. Machine Learning-Clustering and Retrieval
+# Machine Learning: Regression
+In this course I learned:
+   *  Describe the input and output of a regression model.
+   *  Compare and contrast bias and variance when modeling data.
+   *  Estimate model parameters using optimization algorithms.
+   *  Tune parameters with cross validation.
+   *  Analyze the performance of the model.
+   *  Describe the notion of sparsity and how LASSO leads to sparse solutions.
+   *  Deploy methods to select between models.
+   *  Exploit the model to form predictions. 
+   *  Build a regression model to predict prices using a housing dataset.
+   *  Implement these techniques in Python.
